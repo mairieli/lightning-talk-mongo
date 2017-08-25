@@ -47,3 +47,11 @@ $ mongo
 > db.<colecao>.find().sort({dado: -1})
 > db.<colecao>.find().limit(3)
 ```
+### Bibliotecas para o seu projeto!
+ - [Mongolite](https://jeroen.github.io/mongolite/) (R)
+ - [Jongo](http://jongo.org) (Java)
+ - [Mongoose](http://mongoosejs.com) (Nodejs)
+ - [PyMongo](https://github.com/mongodb/mongo-python-driver) (Python)
+ 
+ 
+### Para conhecer mais recursos para o mongo acesse o link [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
