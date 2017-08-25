@@ -46,6 +46,7 @@ $ mongo
 > db.<colecao>.find().sort({dado: 1})
 > db.<colecao>.find().sort({dado: -1})
 > db.<colecao>.find().limit(3)
+> db.<colecao>.find({}, {dado: <0 ou 1>})
 ```
 ### Bibliotecas para o seu projeto!
  - [Mongolite](https://jeroen.github.io/mongolite/) (R)
